@@ -3,7 +3,7 @@ import { watchFile, unwatchFile } from 'fs'
 import { fileURLToPath } from 'url'
 import sharp from 'sharp';
 
-global.owner = ['5218711426787', '5493878203812']
+global.owner = ['595973987960', '']
 global.sessionName = 'Sessions/Owner'
 global.version = '^1.0'
 
